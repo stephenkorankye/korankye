@@ -1,0 +1,283 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Title -->
+    <title> Stephen Korankye </title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="">
+
+    <!-- Stylesheet -->
+	<link rel="stylesheet" href="/css/font-awesome-4.7.0/css/font-awesome.css">
+		<link rel="stylesheet" href="/css/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/style.css">
+	
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Cabin&family=Open+Sans:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="loader"></div>
+    </div>
+    <!-- /Preloader -->
+
+   
+
+    <!-- Header Area Start -->
+    <header class="header-area">
+        <!-- Main Header Start -->
+        <div class="main-header-area">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="alimeNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="" style="color:white; font-weight:bold;"> Korankye<span style="color:rgba(255, 100 , 100 , 1) ; font-size:1.5em;">.</span>  </a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+                            <!-- Menu Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul id="nav">
+                                    <li class="active"><a href="">Home</a></li>
+                                    <li><a href="">About</a></li>
+                                    <li><a href="">Gallery</a></li>
+                                    <li><a href="">Blog</a></li>
+                                    <li><a href="">Contact</a></li>
+                                </ul>
+
+                                
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header Area End -->
+
+    <!-- Welcome Area Start -->
+    <section class="welcome-area">
+        <div class="welcome-slides owl-carousel">
+            <!-- Single Slide -->
+            <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(/img/Stephen/stephenkorankye2.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <!-- Welcome Text -->
+                        <div class="col-12 col-lg-8 col-xl-6">
+                            <div class="welcome-text">
+                                <h2 data-animation="bounceInDown" data-delay="900ms">Hello, <br> I'm Stephen </h2>
+                                <p data-animation="bounceInDown" data-delay="500ms"> A passionate developer </p>
+                                <div class="hero-btn-group" data-animation="bounceInDown" data-delay="100ms">
+                                    <a href="#" class="btn alime-btn mb-3 mb-sm-0 mr-4"> Contact Me </a>
+                                    <a class="hero-mail-contact" href="mailto:hello.alime@gmail.com"> korankyes027@gmail.com </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Slide -->
+            <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(/img/Stephen/stephenkorankye3.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <!-- Welcome Text -->
+                        <div class="col-12 col-lg-8 col-xl-6">
+                            <div class="welcome-text">
+                                <h2 data-animation="bounceInUp" data-delay="100ms">Hello <br>I'm  Stephen </h2>
+                                <p data-animation="bounceInUp" data-delay="500ms"> I Design and Develop </p>
+                                <div class="hero-btn-group" data-animation="bounceInUp" data-delay="900ms">
+                                    <a href="#" class="btn alime-btn mb-3 mb-sm-0 mr-4"> Contact Me </a>
+                                    <a class="hero-mail-contact" href="mailto:hello.alime@gmail.com"> korankyes027@gmail.com </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END Welcome  -->
+	
+	
+	<section class="ftco-about ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+		<div class="container">
+			<div class="row d-flex no-gutters">
+				<div class="col-md-6 col-lg-5 d-flex">
+					<div class="img-about img d-flex align-items-stretch">
+						<div class="overlay"></div>
+						<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(/img/Stephen/stephenkorankye1.jpg); background-position:left center ; background-size:cover">
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-7 pl-md-4 pl-lg-5 py-5">
+					<div class="py-md-5">
+						<div class="row justify-content-start pb-3">
+							<div class="col-md-12 heading-section ftco-animate">
+								
+								<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
+								<p> I'm Stephen , a level 300 BSc. Information Technology Student at the University of Energy and Natural Resources</p>
+
+								<ul class="about-info mt-4 px-md-0 px-2">
+									<li class="d-flex"><span>Full Name :</span> <span> Stephen Korankye </span></li>
+									<li class="d-flex"><span> Years of Experience : </span> <span> 3+ years</span></li>
+									<li class="d-flex"><span> Postal Address : </span>  <span> P.O. Box AN 11384 , Accra - Ghana </span></li>
+									<li class="d-flex"><span>Email : </span> <span> korankyes027@gmail.com </span></li>
+									<li class="d-flex"><span>Phone : </span> <span> +233 243 588 092 </span></li>
+								</ul>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	
+	
+	<section class="ftco-section" id="services-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-12 heading-section text-center ftco-animate mb-5">
+					<!-- <span class="subheading">I am grat at</span> -->
+					<h2 class="mb-4">We do awesome services for our clients</h2>
+					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6 col-lg-3">
+					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+						<div class="icon d-flex align-items-center justify-content-center"><i class="fa fa-code"></i></div>
+						<div class="media-body">
+							<h3 class="heading mb-3">Web Design</h3>
+							<p>A small river named Duden flows by their place and supplies.</p>
+						</div>
+					</div> 
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+						<div class="icon shadow d-flex align-items-center justify-content-center"><i class="fa fa-code"></i></div>
+						<div class="media-body">
+							<h3 class="heading mb-3">Web Application</h3>
+							<p>A small river named Duden flows by their place and supplies.</p>
+						</div>
+					</div> 
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+						<div class="icon shadow d-flex align-items-center justify-content-center"><i class="fa fa-code"></i></span></div>
+						<div class="media-body">
+							<h3 class="heading mb-3">Web Development</h3>
+							<p>A small river named Duden flows by their place and supplies.</p>
+						</div>
+					</div> 
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+						<div class="icon shadow d-flex align-items-center justify-content-center"><i class="fa fa-code"></i></span></div>
+						<div class="media-body">
+							<h3 class="heading mb-3">Banner Design</h3>
+							<p>A small river named Duden flows by their place and supplies.</p>
+						</div>
+					</div> 
+				</div>
+			</div>
+			
+		</div>
+	</section>
+
+	
+	
+	
+	
+	
+	<section style="padding:20px">
+		<div class="expHeader"> Experiences </div>
+		
+		<div class="webExp">
+			
+			<div>
+				<img src="/img/logos/html_excessive.png" />
+			</div>
+			
+			
+			<div>
+				<img src="/img/logos/html_excessive.png" />
+			</div>
+			
+			
+			<div>
+				<img src="/img/logos/html_excessive.png" />
+			</div>
+			
+			
+			<div>
+				<img src="/img/logos/html_excessive.png" />
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+	</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+ 
+ 
+ 
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/alime.bundle.js"></script>
+    <script src="/js/active.js"></script>
+	
+	
+
+</body>
+
+</html>
