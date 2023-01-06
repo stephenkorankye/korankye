@@ -24,10 +24,12 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
+  /* font-family: "Cabin" ;  */
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  z-index: auto; }
+  z-index: auto; 
+}
 
 h1,
 h2,
@@ -443,6 +445,7 @@ input:required {
 
 /* :: 7.0 Header CSS */
 .header-area {
+  /* font-family: "Poppins", sans-serif !important; */
   position: fixed;
   z-index: 100;
   width: 100%;
@@ -608,6 +611,7 @@ input:required {
 
 /* :: 8.0 Hero CSS */
 .welcome-area {
+  font-family: "Poppins", sans-serif;
   position: relative;
   z-index: 1; }
 
@@ -701,6 +705,7 @@ input:required {
 	}
 
 
+  
 
 
 .ftco-about .img-about {
